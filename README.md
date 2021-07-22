@@ -1,5 +1,5 @@
 # Support-Vector-Machines
-This segment of code illustrates Support Vector Machine Classification and Regression with different kernels using the Iris Dataset
+This segment of code illustrates Support Vector Machine Classification and Regression with different kernels using the Iris Dataset.<br>
 <br>1. Import the Iris dataset and load it. <br>
 <br>2. Prepare different SVM classifiers by creating instances of SVM. <br>
 <br>3. The different kernels used are: Linear, RBF and Polynomial. <br>
