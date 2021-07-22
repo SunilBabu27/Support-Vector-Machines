@@ -6,4 +6,4 @@ This segment of code illustrates Support Vector Machine Classification with diff
 <br>4. For each kernel, fit the data into the model. <br>
 <br>5. Plot the decision boundary and results using Color plots and display the differences between the different kernels. <br>
 <br>6. For SVM Regression using Linear, polynomial and RBF kernels, generate the sample dataset and add noise to targets. <br>
-<br> Fit the regression models and plot the results to visualize the differences between the different kernels<br>
+<br>7. Fit the regression models and plot the results to visualize the differences between the different kernels<br>
